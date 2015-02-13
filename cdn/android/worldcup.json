@@ -5,10 +5,10 @@
         "match": {
             "a": "NZD",
             "b": "SL",
-            "rslt": ""
+            "rslt": "b"
         },
         "id": 1,
-        "msg": ""
+        "msg": "rain"
     },
     {
         "date": "14/2",
