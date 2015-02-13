@@ -16,7 +16,7 @@
         "match": {
             "a": "AUS",
             "b": "ENG",
-            "rslt": ""
+            "rslt": "b"
         },
         "id": 2,
         "msg": ""
