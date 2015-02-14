@@ -16,10 +16,10 @@
         "match": {
             "a": "AUS",
             "b": "ENG",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 2,
-        "msg": ""
+        "msg": "AUS won by 111 runs"
     },
     {
         "date": "15/2",
