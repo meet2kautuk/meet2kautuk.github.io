@@ -27,10 +27,10 @@
         "match": {
             "a": "SA",
             "b": "ZIM",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 3,
-        "msg": ""
+        "msg": "SA won by 62 runs"
     },
     {
         "date": "15/2",
