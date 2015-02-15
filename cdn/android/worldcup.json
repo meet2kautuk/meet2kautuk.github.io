@@ -38,10 +38,10 @@
         "match": {
             "a": "IND",
             "b": "PAK",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 4,
-        "msg": ""
+        "msg": "IND won by 76 runs"
     },
     {
         "date": "16/2",
