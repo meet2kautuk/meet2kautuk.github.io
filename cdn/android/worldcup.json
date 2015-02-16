@@ -49,10 +49,10 @@
         "match": {
             "a": "IRE",
             "b": "WI",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 5,
-        "msg": ""
+        "msg": "IRE won by 4 wickets"
     },
     {
         "date": "17/2",
