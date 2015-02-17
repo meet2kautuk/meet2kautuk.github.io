@@ -60,10 +60,10 @@
         "match": {
             "a": "NZD",
             "b": "SCO",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 6,
-        "msg": ""
+        "msg": "NZ won by 3 wickets"
     },
     {
         "date": "18/2",
