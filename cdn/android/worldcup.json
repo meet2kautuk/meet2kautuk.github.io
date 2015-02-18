@@ -71,10 +71,10 @@
         "match": {
             "a": "BAN",
             "b": "AFG",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 7,
-        "msg": ""
+        "msg": "BAN won by 105 runs"
     },
     {
         "date": "19/2",
