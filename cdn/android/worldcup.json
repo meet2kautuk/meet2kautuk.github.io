@@ -82,10 +82,10 @@
         "match": {
             "a": "UAE",
             "b": "ZIM",
-            "rslt": ""
+            "rslt": "b"
         },
         "id": 8,
-        "msg": ""
+        "msg": "ZIM won by 4 wickets"
     },
     {
         "date": "20/2",
