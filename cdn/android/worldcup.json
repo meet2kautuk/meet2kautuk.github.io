@@ -126,10 +126,10 @@
         "match": {
             "a": "AFG",
             "b": "SL",
-            "rslt": ""
+            "rslt": "b"
         },
         "id": 12,
-        "msg": ""
+        "msg": "SL won by 4 wickets"
     },
     {
         "date": "22/2",
@@ -137,10 +137,10 @@
         "match": {
             "a": "IND",
             "b": "SA",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 13,
-        "msg": ""
+        "msg": "IND won by 130 runs"
     },
     {
         "date": "23/2",
