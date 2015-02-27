@@ -148,10 +148,10 @@
         "match": {
             "a": "ENG",
             "b": "SCO",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 14,
-        "msg": ""
+        "msg": "ENG won by 119 runs"
     },
     {
         "date": "24/2",
@@ -159,10 +159,10 @@
         "match": {
             "a": "WI",
             "b": "ZIM",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 15,
-        "msg": ""
+        "msg": "WI won by 73 runs"
     },
     {
         "date": "25/2",
@@ -170,10 +170,10 @@
         "match": {
             "a": "IRE",
             "b": "UAE",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 16,
-        "msg": ""
+        "msg": "IRE won by 2 wickets"
     },
     {
         "date": "26/2",
@@ -181,10 +181,10 @@
         "match": {
             "a": "AFG",
             "b": "SCO",
-            "rslt": ""
+            "rslt": "a"
         },
         "id": 17,
-        "msg": ""
+        "msg": "AFG won by 1 wicket"
     },
     {
         "date": "26/2",
@@ -192,10 +192,10 @@
         "match": {
             "a": "BAN",
             "b": "SL",
-            "rslt": ""
+            "rslt": "b"
         },
         "id": 18,
-        "msg": ""
+        "msg": "SL won by 92 runs"
     },
     {
         "date": "27/2",
