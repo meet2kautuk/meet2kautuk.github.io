@@ -512,10 +512,10 @@
         "match": {
             "a": "SA",
             "b": "NZD",
-            "rslt": ""
+            "rslt": "b"
         },
         "id": 47,
-        "msg": ""
+        "msg": "NZD won by 4 wickets"
     },
     {
         "date": "26/3",
